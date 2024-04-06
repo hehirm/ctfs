@@ -22,7 +22,7 @@ The CSS is located at the endpoint `/problem/44924/mycss.css` (this information 
 
 Finally lets have a look at the Javascript, which is located at the endpoint `/problem/44924/mycss.css`. Again, within the Javascript is a comment containing the last part of the flag:
 
-```javscript
+```js
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?f10be399} */
 ```
 
