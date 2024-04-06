@@ -14,6 +14,8 @@ response = requests.head('http://mercury.picoctf.net:34561/index.php');
 print(response.headers)
 ```
 
-This reveals the flag:
+This reveals the flag as:
 
->! picoCTF{r3j3ct_th3_du4l1ty_8f878508}
+```
+picoCTF{r3j3ct_th3_du4l1ty_8f878508}
+```
