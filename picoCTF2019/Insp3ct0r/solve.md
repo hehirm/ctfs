@@ -20,7 +20,7 @@ The CSS is located at the endpoint `/problem/44924/mycss.css` (this information 
 /* You need CSS to make pretty pages. Here's part 2/3 of the flag: t3ct1ve_0r_ju5t */
 ```
 
-Finally lets have a look at the Javascript, which is located at the endpoint `/problem/44924/mycss.css`. Again, within the Javascript is a comment containing the last part of the flag:
+Finally lets have a look at the Javascript, which is located at the endpoint `/problem/44924/myjs.js`. Again, within the Javascript is a comment containing the last part of the flag:
 
 ```js
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?f10be399} */
