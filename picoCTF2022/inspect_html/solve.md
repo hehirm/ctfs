@@ -1,4 +1,4 @@
-# picoCTF2024 Inspect HTML Write Up
+# picoCTF2022 Inspect HTML Write Up
 
 ## Description
 

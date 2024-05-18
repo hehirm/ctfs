@@ -1,4 +1,4 @@
-# picoCTF2024 Includes Write Up
+# picoCTF2022 Includes Write Up
 
 ## Description
 
