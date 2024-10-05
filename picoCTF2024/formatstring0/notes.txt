@@ -1,0 +1,4 @@
+flag contents are at address 0x004040a0
+
+This address should be on the stack, as it is passed as an argument to a function in main (maybe in a register though?)
+- Probably on the stack to ensure that the context is preserved. Just need to figure out where
